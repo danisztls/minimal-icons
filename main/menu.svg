@@ -1,0 +1,11 @@
+<svg
+  class="menu"
+  viewBox="0 0 30 30"
+  xmlns="http://www.w3.org/2000/svg"
+  stroke="black"
+  stroke-width="3"
+>
+  <line x1="0" x2="30" y1="5" y2="5"/>
+  <line x1="0" x2="30" y1="15" y2="15"/>
+  <line x1="0" x2="30" y1="25" y2="25"/>
+</svg>
