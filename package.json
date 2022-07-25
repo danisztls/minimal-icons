@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "svg-sprite": "^1.5.4",
+    "svgo": "^2.8.0"
+  }
+}
