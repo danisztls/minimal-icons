@@ -1,0 +1,15 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@fortawesome/fontawesome-pro': ^6.3.0
+
+dependencies:
+  '@fortawesome/fontawesome-pro': 6.3.0
+
+packages:
+
+  /@fortawesome/fontawesome-pro/6.3.0:
+    resolution: {integrity: sha512-OAOIn+MLlPTlIE++NyRSHXFhJ+MQB3C0vTNTPqrMn0nukyZMtQexRFe0UIf+Ln40Pr9CqqncfO0o1OcGHzUAfQ==, tarball: '@fortawesome/fontawesome-pro/-/6.3.0/fontawesome-pro-6.3.0.tgz'}
+    engines: {node: '>=6'}
+    requiresBuild: true
+    dev: false
