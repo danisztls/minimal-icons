@@ -1,15 +1,18 @@
-lockfileVersion: 5.4
+lockfileVersion: '6.0'
 
-specifiers:
-  '@fortawesome/fontawesome-pro': ^6.4.0
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
 
 dependencies:
-  '@fortawesome/fontawesome-pro': 6.4.0
+  '@fortawesome/fontawesome-pro':
+    specifier: ^6.4.0
+    version: 6.4.0
 
 packages:
 
-  /@fortawesome/fontawesome-pro/6.4.0:
-    resolution: {integrity: sha512-VtoAOuV0KAjdO979RHGko5krp3UsKMnXH1SaHnQvlz4PcgErcsk5ZPugoMhc3sW5lkrRl8NnaGwkGzB3gzVSxQ==, tarball: '@fortawesome/fontawesome-pro/-/6.4.0/fontawesome-pro-6.4.0.tgz'}
+  /@fortawesome/fontawesome-pro@6.4.0:
+    resolution: {integrity: sha512-VtoAOuV0KAjdO979RHGko5krp3UsKMnXH1SaHnQvlz4PcgErcsk5ZPugoMhc3sW5lkrRl8NnaGwkGzB3gzVSxQ==, tarball: https://npm.fontawesome.com/@fortawesome/fontawesome-pro/-/6.4.0/fontawesome-pro-6.4.0.tgz}
     engines: {node: '>=6'}
     requiresBuild: true
     dev: false
